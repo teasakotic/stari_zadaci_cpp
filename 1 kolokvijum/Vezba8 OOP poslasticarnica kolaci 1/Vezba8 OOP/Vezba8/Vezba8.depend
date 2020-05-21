@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1558542700 source:c:\users\kasija\desktop\vezba8 oop\vezba8\main.cpp
+	<iostream>
+	"kolac.h"
+	"cokoKocka.h"
+	"saher.h"
+	"poslasticarnica.h"
+	"petrus.h"
+
+1558540008 c:\users\kasija\desktop\vezba8 oop\vezba8\kolac.h
+	<iostream>
+
+1558542595 c:\users\kasija\desktop\vezba8 oop\vezba8\cokokocka.h
+	"kolac.h"
+
+1558542599 c:\users\kasija\desktop\vezba8 oop\vezba8\saher.h
+	"kolac.h"
+
+1558541253 c:\users\kasija\desktop\vezba8 oop\vezba8\poslasticarnica.h
+	"kolac.h"
+	<vector>
+
+1558542203 c:\users\kasija\desktop\vezba8 oop\vezba8\petrus.h
+	"poslasticarnica.h"
+

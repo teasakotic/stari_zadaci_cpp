@@ -1,0 +1,9 @@
+Novi Sad;Bulevar Mihajla Pupina;261a
+1976
+LIFT;lift;1976;4;0
+OBICNA;Spavaca soba;1976;14;21
+OBICNA;Spavaca soba;1976;16;21
+OBICNA;Dnevna soba;1976;14;21
+OBICNA;Trpezarija;1976;20;21
+KUPATILO;Kupatilo;1976;5;25
+KUHINJA;Kuhinja;1976;7;20

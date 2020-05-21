@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1558450439 source:c:\users\kasija\desktop\vezba7 oop\vezba7\main.cpp
+	<iostream>
+	"deo.h"
+	"mis.h"
+	"tastatura.h"
+	"racunar.h"
+	"samsung123.h"
+
+1558447715 c:\users\kasija\desktop\vezba7 oop\vezba7\deo.h
+	<iostream>
+
+1558447717 c:\users\kasija\desktop\vezba7 oop\vezba7\mis.h
+	"deo.h"
+
+1558447890 c:\users\kasija\desktop\vezba7 oop\vezba7\tastatura.h
+	"deo.h"
+
+1558449564 c:\users\kasija\desktop\vezba7 oop\vezba7\racunar.h
+	"deo.h"
+	<vector>
+
+1558448761 c:\users\kasija\desktop\vezba7 oop\vezba7\samsung123.h
+	"racunar.h"
+
+1558450508 source:c:\users\kasija\desktop\vezba7oop\vezba7\main.cpp
+	<iostream>
+	"deo.h"
+	"mis.h"
+	"tastatura.h"
+	"racunar.h"
+	"samsung123.h"
+
+1558447715 c:\users\kasija\desktop\vezba7oop\vezba7\deo.h
+	<iostream>
+
+1558447717 c:\users\kasija\desktop\vezba7oop\vezba7\mis.h
+	"deo.h"
+
+1558447890 c:\users\kasija\desktop\vezba7oop\vezba7\tastatura.h
+	"deo.h"
+
+1558449564 c:\users\kasija\desktop\vezba7oop\vezba7\racunar.h
+	"deo.h"
+	<vector>
+
+1558448761 c:\users\kasija\desktop\vezba7oop\vezba7\samsung123.h
+	"racunar.h"
+

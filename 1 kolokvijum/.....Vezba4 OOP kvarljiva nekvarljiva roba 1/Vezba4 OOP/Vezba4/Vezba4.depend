@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555690968 source:c:\users\kasija\desktop\vezba4 oop\vezba4\main.cpp
+	<iostream>
+	"roba.h"
+	"kvarljiva.h"
+	"nekvarljiva.h"
+	"magacin.h"
+
+1555688594 c:\users\kasija\desktop\vezba4 oop\vezba4\roba.h
+	<iostream>
+
+1555691149 c:\users\kasija\desktop\vezba4 oop\vezba4\kvarljiva.h
+	"roba.h"
+
+1555689789 c:\users\kasija\desktop\vezba4 oop\vezba4\nekvarljiva.h
+	"roba.h"
+
+1555691096 c:\users\kasija\desktop\vezba4 oop\vezba4\magacin.h
+	"roba.h"
+	<vector>
+

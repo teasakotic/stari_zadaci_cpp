@@ -1,0 +1,7 @@
+Apstraktna klasa poslasticarnica
+atributi ime, vektor kolaca
+metode  prikaz svih kolaca(Naziv cena kolicina), prodaja(ima parametar kolcina koji umanjuje kolicinu svih kolaca za upisanu kolicinu)
+Apstraktna klasa kolac
+atributi naziv cena kolicina
+prikaz(naziv cena kolicina)
+umanji(ima parametar kolicina, umanjuje kolicinu kolaca)

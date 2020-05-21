@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1560268786 source:c:\users\kasija\desktop\vezba9oop\vezba9\main.cpp
+	<iostream>
+	"racun.h"
+	"dinarski.h"
+	"devizni.h"
+	"banka.h"
+	"erste.h"
+
+1560268660 c:\users\kasija\desktop\vezba9oop\vezba9\racun.h
+	<iostream>
+
+1560263626 c:\users\kasija\desktop\vezba9oop\vezba9\dinarski.h
+	"racun.h"
+
+1560268321 c:\users\kasija\desktop\vezba9oop\vezba9\devizni.h
+	"racun.h"
+
+1560268348 c:\users\kasija\desktop\vezba9oop\vezba9\banka.h
+	"racun.h"
+	<vector>
+
+1560268403 c:\users\kasija\desktop\vezba9oop\vezba9\erste.h
+	"banka.h"
+

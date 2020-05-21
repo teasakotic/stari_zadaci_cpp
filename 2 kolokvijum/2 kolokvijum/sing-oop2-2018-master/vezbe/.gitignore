@@ -1,0 +1,14 @@
+*.tex
+*.aux
+*.log
+*.out
+*.synctex*
+v*/slike
+*.o
+*.exe
+*.dll
+*.layout
+*.depend
+bin/
+obj/
+doxygen

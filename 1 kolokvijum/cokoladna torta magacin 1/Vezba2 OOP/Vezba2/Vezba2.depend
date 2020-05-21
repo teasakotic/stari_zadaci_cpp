@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555509311 source:c:\users\kasija\desktop\vezba2 oop\vezba2\main.cpp
+	<iostream>
+	"torta.h"
+	"cokoladna.h"
+	"vocna.h"
+	"magacin.h"
+
+1555508439 c:\users\kasija\desktop\vezba2 oop\vezba2\torta.h
+	<iostream>
+
+1555509092 c:\users\kasija\desktop\vezba2 oop\vezba2\cokoladna.h
+	"torta.h"
+
+1555509243 c:\users\kasija\desktop\vezba2 oop\vezba2\vocna.h
+	"torta.h"
+
+1555509668 c:\users\kasija\desktop\vezba2 oop\vezba2\magacin.h
+	"torta.h"
+	<vector>
+

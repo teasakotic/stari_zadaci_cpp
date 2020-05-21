@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1555590730 source:c:\users\kasija\desktop\vezba3 oop\vezba3\main.cpp
+	<iostream>
+	"deo.h"
+	"motor.h"
+	"menjac.h"
+	"automobil.h"
+	"audi.h"
+
+1555588035 c:\users\kasija\desktop\vezba3 oop\vezba3\deo.h
+	<iostream>
+
+1555586898 c:\users\kasija\desktop\vezba3 oop\vezba3\motor.h
+	"deo.h"
+
+1555587095 c:\users\kasija\desktop\vezba3 oop\vezba3\menjac.h
+	"deo.h"
+
+1555590637 c:\users\kasija\desktop\vezba3 oop\vezba3\automobil.h
+	"deo.h"
+	<vector>
+
+1555589569 c:\users\kasija\desktop\vezba3 oop\vezba3\audi.h
+	"automobil.h"
+

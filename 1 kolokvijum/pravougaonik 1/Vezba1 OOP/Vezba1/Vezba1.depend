@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555506483 source:c:\users\kasija\desktop\vezba1 oop\vezba1\main.cpp
+	<iostream>
+	"oblik.h"
+	"kvadrat.h"
+	"pravougaonik.h"
+	"torba.h"
+
+1555506485 c:\users\kasija\desktop\vezba1 oop\vezba1\oblik.h
+	<iostream>
+
+1555505831 c:\users\kasija\desktop\vezba1 oop\vezba1\kvadrat.h
+	"oblik.h"
+
+1555506226 c:\users\kasija\desktop\vezba1 oop\vezba1\pravougaonik.h
+	"oblik.h"
+
+1555507250 c:\users\kasija\desktop\vezba1 oop\vezba1\torba.h
+	"oblik.h"
+	<vector>
+

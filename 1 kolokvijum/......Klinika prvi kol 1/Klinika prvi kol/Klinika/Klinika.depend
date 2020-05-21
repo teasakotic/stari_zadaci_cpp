@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1561917367 source:c:\users\kasija\desktop\klinika\klinika\main.cpp
+	<iostream>
+	"osoba.h"
+	"zaposleni.h"
+	"medicinskiTehnicar.h"
+	"lekar.h"
+	"klinika1.h"
+	"osoba1.h"
+
+1561914447 c:\users\kasija\desktop\klinika\klinika\osoba.h
+	<iostream>
+
+1561915018 c:\users\kasija\desktop\klinika\klinika\zaposleni.h
+	"osoba.h"
+
+1561915554 c:\users\kasija\desktop\klinika\klinika\medicinskitehnicar.h
+	"zaposleni.h"
+
+1561915744 c:\users\kasija\desktop\klinika\klinika\lekar.h
+	"zaposleni.h"
+
+1561916544 c:\users\kasija\desktop\klinika\klinika\klinika1.h
+	"osoba.h"
+	<vector>
+
+1561917126 c:\users\kasija\desktop\klinika\klinika\osoba1.h
+	"osoba.h"
+
